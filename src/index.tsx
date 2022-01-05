@@ -1,6 +1,6 @@
 import React from "react";
-import { View } from "react-native";
+import { Dashboard } from "./screens/Dashboard";
 
 export default function App() {
-    return <View />
+    return <Dashboard />
 }
